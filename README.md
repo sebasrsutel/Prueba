@@ -1,2 +1,2 @@
-# Prueba
-Repositorio de prueba
+# Readme de Prueba
+Este es el Repositorio de prueba
